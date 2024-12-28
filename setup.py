@@ -9,7 +9,7 @@ setup(
     author='Angela Branaes',
     author_email='angela.branaes10@alumni.imperial.ac.uk',
     license='MIT',
-    url='https://github.com/angineering/FullStackTemplate',
+    url='https://github.com/robintech514/FullStackTemplate',
     keywords = [ 'fullstack', 'template', 'python', 'react','npm', 'webpack'],
     classifiers = [
     'Topic :: Software Development',
